@@ -1,7 +1,7 @@
 # PROFESSIONAL TRACK INFO
 
-Student Name:
+Student Name:Tsedeniya
 
-Track Name: Feature updated
+Track Name: nodejs
 
 ![MSD Logo](assets/msd-6th-batch-logo.png "MSD 6th Batch Logo")
